@@ -5,12 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5703021-2ed2-4629-b46e-d6b8331aa6f1" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/ConversionARomanosTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/svalero/ConversionARomanos.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/svalero/ConversionARomanos.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/com/svalero/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/com/svalero/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/TestConversion.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/ConversionARomanosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConversionARomanosTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter3">
+  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter4">
     <configuration name="ConversionARomanosTest.testConverter" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kataRomanNumber" />
       <option name="PACKAGE_NAME" value="" />
@@ -74,8 +70,19 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConversionARomanosTest.testConverter4" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kataRomanNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
+      <option name="METHOD_NAME" value="testConverter4" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConversionARomanosTest.testConverter4" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter3" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter2" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter" />
