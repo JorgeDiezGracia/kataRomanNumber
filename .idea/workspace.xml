@@ -5,7 +5,6 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="a5703021-2ed2-4629-b46e-d6b8331aa6f1" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/test/java/ConversionARomanosTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/ConversionARomanosTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -39,12 +38,12 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter77">
-    <configuration name="ConversionARomanosTest.testConverter24" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter100">
+    <configuration name="ConversionARomanosTest.testConverter100" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kataRomanNumber" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
-      <option name="METHOD_NAME" value="testConverter24" />
+      <option name="METHOD_NAME" value="testConverter100" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -92,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConversionARomanosTest.testConverter100" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter77" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter50" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter49" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter36" />
-        <item itemvalue="JUnit.ConversionARomanosTest.testConverter24" />
       </list>
     </recent_temporary>
   </component>
