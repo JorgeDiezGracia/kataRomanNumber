@@ -42,7 +42,11 @@ public class ConversionARomanosTest {
         numero = conversionARomanos.conversionNumero(5);
         Assert.assertEquals("V", numero);
     }
-    
+    @Test
+    public void testConverter6(){
+        numero = conversionARomanos.conversionNumero(6);
+        Assert.assertEquals("VI", "VI");
+    }
 
 
 
