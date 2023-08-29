@@ -38,12 +38,12 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter2600">
-    <configuration name="ConversionARomanosTest.testConversion999" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConversion2700">
+    <configuration name="ConversionARomanosTest.testConversion2700" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kataRomanNumber" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
-      <option name="METHOD_NAME" value="testConversion999" />
+      <option name="METHOD_NAME" value="testConversion2700" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -91,11 +91,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConversionARomanosTest.testConversion2700" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter2600" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter2000" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter1400" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter1000" />
-        <item itemvalue="JUnit.ConversionARomanosTest.testConversion999" />
       </list>
     </recent_temporary>
   </component>
