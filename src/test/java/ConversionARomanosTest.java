@@ -19,5 +19,14 @@ public class ConversionARomanosTest {
         numero = conversionARomanos.conversionNumero(1);
         Assert.assertEquals("I", numero);
     }
+
+    @Test
+    public void testConverter2(){
+        numero = conversionARomanos.conversionNumero(2);
+        Assert.assertEquals("II", numero);
+    }
+
+
+
     }
 
