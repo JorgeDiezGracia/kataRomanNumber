@@ -39,17 +39,7 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter36">
-    <configuration name="ConversionARomanosTest.testConverter10" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kataRomanNumber" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
-      <option name="METHOD_NAME" value="testConverter10" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter49">
     <configuration name="ConversionARomanosTest.testConverter14" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kataRomanNumber" />
       <option name="PACKAGE_NAME" value="" />
@@ -90,13 +80,23 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConversionARomanosTest.testConverter49" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kataRomanNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
+      <option name="METHOD_NAME" value="testConverter49" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConversionARomanosTest.testConverter49" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter36" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter24" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter16" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter14" />
-        <item itemvalue="JUnit.ConversionARomanosTest.testConverter10" />
       </list>
     </recent_temporary>
   </component>
