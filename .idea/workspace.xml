@@ -38,32 +38,12 @@
     "settings.editor.selected.configurable": "reference.settings.project.maven.repository.indices"
   }
 }]]></component>
-  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConversion2700">
+  <component name="RunManager" selected="JUnit.ConversionARomanosTest.testConverter3000">
     <configuration name="ConversionARomanosTest.testConversion2700" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
       <module name="kataRomanNumber" />
       <option name="PACKAGE_NAME" value="" />
       <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
       <option name="METHOD_NAME" value="testConversion2700" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConversionARomanosTest.testConverter1000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kataRomanNumber" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
-      <option name="METHOD_NAME" value="testConverter1000" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ConversionARomanosTest.testConverter1400" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="kataRomanNumber" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
-      <option name="METHOD_NAME" value="testConverter1400" />
       <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -89,13 +69,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="ConversionARomanosTest.testConverter2700" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kataRomanNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
+      <option name="METHOD_NAME" value="testConverter2700" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ConversionARomanosTest.testConverter3000" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="kataRomanNumber" />
+      <option name="PACKAGE_NAME" value="" />
+      <option name="MAIN_CLASS_NAME" value="ConversionARomanosTest" />
+      <option name="METHOD_NAME" value="testConverter3000" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="JUnit.ConversionARomanosTest.testConverter3000" />
+        <item itemvalue="JUnit.ConversionARomanosTest.testConverter2700" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConversion2700" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter2600" />
         <item itemvalue="JUnit.ConversionARomanosTest.testConverter2000" />
-        <item itemvalue="JUnit.ConversionARomanosTest.testConverter1400" />
-        <item itemvalue="JUnit.ConversionARomanosTest.testConverter1000" />
       </list>
     </recent_temporary>
   </component>
